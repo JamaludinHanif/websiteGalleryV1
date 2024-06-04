@@ -1,0 +1,12 @@
+# Set default indentation style dan ukuran tab
+[*]
+indent_style = space
+indent_size = 4
+
+# Spesifik untuk file JavaScript
+[*.js]
+indent_size = 2
+
+# Spesifik untuk file CSS
+[*.css]
+indent_size = 2
